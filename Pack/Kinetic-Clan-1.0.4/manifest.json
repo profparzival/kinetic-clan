@@ -1,0 +1,45 @@
+{
+   "format_version" : 2,
+   "header" : {
+      "description" : "Made by §2ProfParzival§r\nCape provided by §3JustWaved§r\n§4Relog after any change\n\nHint: Click the pack then Click settings, adjust the slider then relog.",
+      "name" : "§2Kinetic §4Clan §2Capes§r",
+      "uuid" : "b64b261b-a353-4791-b081-4a4cb72e6625",
+      "version" : [ 1, 0, 4 ],
+      "min_engine_version": [ 1, 16, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "",
+         "type" : "resources",
+         "uuid" : "f26691de-c01a-4e89-966c-8b5f32835259",
+         "version" : [ 1, 0, 4 ]
+      }
+   ],
+  "subpacks" :[
+    {
+      "folder_name":"turtle",
+      "name":"§aTurtle§r",
+      "memory_tier":1
+    },
+	{
+      "folder_name":"youtube",
+      "name":"§fYou§4Tube§r",
+      "memory_tier":1
+    },
+    {
+      "folder_name":"prof",
+      "name":"§2VR§r",
+      "memory_tier":1
+    },
+	{
+      "folder_name":"kinetic-lowres",
+      "name":"§2Kinetic §4Clan §2(Low-res)",
+      "memory_tier":1
+    },
+	{
+      "folder_name":"kinetic",
+      "name":"§2Kinetic §4Clan",
+      "memory_tier":1
+    }
+  ]
+}
